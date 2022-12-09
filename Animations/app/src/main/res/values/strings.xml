@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Animations</string>
+    <string name="heading">Different Kind of Animations</string>
+    <string name="rotate">ROTATE</string>
+    <string name="move">ZOOM</string>
+    <string name="vibrate">VIBRATE</string>
+</resources>
